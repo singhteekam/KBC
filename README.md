@@ -1,4 +1,4 @@
-### Kaun Banega Crorepati CLI Mode
+# Kaun Banega Crorepati CLI Mode
 
 ## Screenshots
    - <img src="https://github.com/singhteekam/KBC/blob/master/kbc_scnshots/Screenshot%20(36).png?raw=true" alt="Scnshot1" >
